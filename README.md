@@ -1,8 +1,4 @@
 # Project22
-
-> - Descrever projeto
-> - Colocar uma imagem top
-
 ## 💻 Pré-requisitos
 
 Para rodar o projeto, certifique de ter instalado os programas:
